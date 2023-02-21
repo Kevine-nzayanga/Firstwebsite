@@ -1,0 +1,245 @@
+ body{
+    background-image: url(/image/nice-warehouse-delivery.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.nclogo{
+font-size: x-large;
+width: 300px;
+height: 50px;
+}
+.nicelogotexts{
+    width: 200px;
+}
+.navbar{
+text-align: justify;
+margin-top: -2%;
+float: right;
+font-size: large;
+}
+.aboutbar{
+    text-align: center;
+    color: rgb(103, 103, 155);
+    padding-right: 20px;
+    font-weight: bold;
+}
+
+.howitw{
+text-align: center;
+color: rgb(103, 103, 155);
+padding-right: 20px;
+font-weight: bold;
+}
+
+.wnc{
+    font-weight: bold;
+text-align: center;
+color: rgb(103, 103, 155);
+padding-right: 150px;
+
+}
+
+
+
+.heading1{
+    font-size: 60px;
+    color: rgb(52, 52, 90);
+}
+.words1{
+    color: rgb(71, 71, 104);
+    font-size: large;
+    margin-top: -2%;
+}
+
+.mainwords{
+    border: solid white;
+    text-align: center;
+}
+span{
+    color: rgb(41, 179, 82);
+   
+}
+.spancolour{
+    color: rgb(85, 85, 240);
+
+}
+.button1{
+width: 150px;
+background-color: rgb(69, 129, 179);
+height: 50px;
+color: white;
+font-weight: bold;
+text-align: center;
+border-radius: 5px;
+font-size: x-large;
+border: white;
+}
+
+.rightdesign{
+display: flex;
+float: right;
+margin-top: -12%;
+margin-right: 10%;
+
+}
+
+.firstdetails{
+    background-color: rgb(224, 226, 231);
+    border: solid rgb(224, 226, 231);
+    border-radius: 10px;
+    margin-right:10px;
+    border-width: 25px;
+    font-size: 15px;
+    height: 60px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: rgb(71, 71, 104);
+    padding-top: -15px;
+    margin-bottom: -150px;
+}
+.firstdetails h2{
+    margin-top: -1px;
+    font-size: xx-large;
+   }
+
+
+.seconddetails{
+    background-color:  rgb(224, 226, 231);
+    border: solid  rgb(224, 226, 231);
+    border-radius: 10px;
+    margin: 0 10px;
+    border-width: 25px;
+    font-size: 15px;
+    height: 60px;
+    text-align: center;
+    padding-bottom: 20px;
+    color: rgb(71, 71, 104);
+    width: 100px;
+}
+ .seconddetails h2{
+    margin-top: -1px;
+    font-size: xx-large;
+ } 
+  
+.thirddetails{
+background-color: rgb(241, 213, 229);
+    border: solid  rgb(241, 213, 229);
+   border-radius: 10px;
+   margin: 0 10px;
+   border-width: 25px;
+   font-size: 15px;
+   height: 60px;
+   text-align: center;
+   padding-bottom: 20px;
+   color: rgb(71, 71, 104);
+}
+.thirddetails h2{
+    margin-top: -1px;
+    font-size: xx-large;
+   }
+
+.brands{
+    margin-left: 10%;
+}
+.brandsimg{
+display: flex;
+text-align: center;
+margin-top: -2%;
+}
+.brandwords{
+    font-size:20px;
+    
+}
+.brand1{
+padding-right: 25px;
+border-radius: 20px; 
+margin: 10px; 
+padding-bottom: 50px ;
+}
+.brand1 img{
+width: 120px;
+height: 100px;
+}
+
+.brand2{
+    padding-right: 25px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.brand3{
+    padding-right: 25px;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.brand4{
+    padding-right: 25px;
+    margin: 10px;
+    border-radius: 20px;
+    
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+.lowerleft{
+color: rgb(13, 13, 46);
+margin-left: 10%;
+font-size: 20px;
+margin-bottom: 10px;
+
+}
+
+.button2{
+    background-color: rgb(100, 126, 182);
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    margin: left 10px;
+    border-radius: 5px;
+    border: white;
+    font-family:  Times, serif;
+}
+.bluedots{
+    padding-left: 9% ;
+    opacity: 0.3;
+    margin-top: -50%;
+}
+.lowerright{
+display: flex;
+float: right;
+margin-top:-11%; 
+margin-right: 10%;
+
+}
+.ordersway1{
+margin: 10px;
+font-size: medium; 
+}
+.ordersway2{
+    margin: 10px;
+    font-size: medium; 
+}
+.ordersway3{
+ margin: 10px;
+ font-size: medium; 
+ border-top: 40px;
+}
+.line1{
+   height: 5px; 
+   background-color: rgb(28, 0, 128); 
+  
+    }
+.line2{
+    height: 5px; 
+   background-color: rgb(243, 94, 7); 
+}
+.line3{
+    height: 5px; 
+    background-color: rgb(15, 139, 35); 
+}
